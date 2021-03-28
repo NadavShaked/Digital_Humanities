@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rule>
+    <title bold="true" symbol="*">חוק-יסוד כבוד האדם וחירותו*</title>
+    <clauses>
+        <mainClause>
+            <name>מטרה</name>
+            <clauseSymbol>1</clauseSymbol>
+            <text>חוק-יסוד זה, מטרתו להגן על כבוד האדם וחירותו, כדי לעגן בחוד-יסוד את ערכיה של מדינת ישראל כמדינה יהודית ודמוקרטית.</text>
+        </mainClause>
+        <mainClause>
+            <name>שמירה על החיים הגוף והכבוד</name>
+            <clauseSymbol>2</clauseSymbol>
+            <text>אין פוגעים בחייו, בגופו או בכבודו של אדם באשר הוא אדם.</text>
+        </mainClause>
+        <mainClause>
+            <name>שמירה על הקנין</name>
+            <clauseSymbol>3</clauseSymbol>
+            <text>אין פוגעים בקנינו של אדם.</text>
+        </mainClause>
+        <mainClause>
+            <name>הגנה על החיים הגוף והכבוד</name>
+            <clauseSymbol>4</clauseSymbol>
+            <text>כל אדם זכאי להגנה על חייו, על גופו ועל כבודו.</text>
+        </mainClause>
+        <mainClause>
+            <name>חירות אישית</name>
+            <clauseSymbol>5</clauseSymbol>
+            <text>אין נוטלים ואין מגבילים את חירותו של אדם במאסר, במעצר, בהסגרה או בכל דרך אחרת.</text>
+        </mainClause>
+        <mainClause>
+            <name>יציאה מישראל וכניסה אליה</name>
+            <clauseSymbol>6</clauseSymbol>
+            <clause>
+                <symbol>א</symbol>
+                <text>כל אדם חופשי לצאת מישראל.</text>
+            </clause>
+            <clause>
+                <symbol>ב</symbol>
+                <text>כל אזרח ישראלי הנמצא בחוץ לארץ זכאי להיכנס לישראל.</text>
+            </clause>
+        </mainClause>
+        <mainClause>
+            <name>פרטיות וצנעת הפרט</name>
+            <clauseSymbol>7</clauseSymbol>
+            <clause>
+                <symbol>א</symbol>
+                <text>כל אדם זכאי לפרטיות וצנעת חייו.</text>
+            </clause>
+            <clause>
+                <symbol>ב</symbol>
+                <text>אין נכנסים לרשות היחיד של אדם שלא בהסכמתו.</text>
+            </clause>
+            <clause>
+                <symbol>ג</symbol>
+                <text>אין עורכים חיפוש ברשות היחיד של אדם, על גופו, בגופו או בכליו.</text>
+            </clause>
+            <clause>
+                <symbol>ד</symbol>
+                <text>אין פוגעים בסוד שיחו של אדם, בכתביו או ברשומותיו.</text>
+            </clause>
+        </mainClause>
+        <mainClause>
+            <name>פגיעה בזכויות</name>
+            <clauseSymbol>8</clauseSymbol>
+            <text>אין פוגעים בזכויות שלפי חוק-יסוד זה אלא בחוק ההולם את ערכיה של מדינת ישראל, שנועד לתכלית ראויה, ובמידה שאינה עולה על הנדרש.</text>
+        </mainClause>
+        <mainClause>
+            <name>סייג לגבי כוחות הבטחון</name>
+            <clauseSymbol>9</clauseSymbol>
+            <text>אין מגבילים זכויות שלפי חוק-יסוד זה המשרתים בצבא הגנה לישראל, במשטרת ישראל, בשירות בתי הסוהר ובארגוני הבטחון האחרים של המדינה, ואין מתנים על זכויות אלה, אלא לפי חוק ובמידה שאינה עולה על הנדרש ממהותו ומאופיו של השירות.</text>
+        </mainClause>
+        <mainClause>
+            <name>שמירת דינים</name>
+            <clauseSymbol>10</clauseSymbol>
+            <text>אין בחוק-יסוד זה כדי לפגוע בתקפו של דין שהיה קיים ערב תחילתו של חוק-היסוד.</text>
+        </mainClause>
+        <mainClause>
+            <name>תחולה</name>
+            <clauseSymbol>11</clauseSymbol>
+            <text>כל רשות מרשויות השלטון חייבת לכבד את הזכויות שלפי חוק-יסוד זה.</text>
+        </mainClause>
+        <mainClause>
+            <name>יציבות החוק</name>
+            <clauseSymbol>12</clauseSymbol>
+            <text symbol="1">אין בכוחן של תקנות שעת-חירום לשנות חוק-יסוד זה, להפקיע זמנית את תקפו או לקבוע בו תנאים; ואולם בשעה שקיים במדינה מצב חירום בתוקף הכרזה לפי סעיף 9 לפקודת סדרי השלטון והמשפט, התש״ח-1948 1, מותר להתקים תקנות שעת חירום מכוח הסעיף האמור שיהא בהן כדי לשלול או להגביל זכויות לפי חוק-יסוד זה, ובלבד שהשלילה או ההגבלה יהיו לתכלית ראויה ולתקופה ובמידה שלא יעלו על הנדרש.</text>
+        </mainClause>
+    </clauses>
+    <metaData>
+        <records>
+            <record>
+                <page>150</page>
+                <bookName>ספר החוקים 1391</bookName>
+                <date>כ׳ באדר ב׳ התשנ״ב, 25.3.1992</date>
+                <signatures>
+                    <president>חיים הרצוג</president>
+                    <primeMinister>יצחק שמיר</primeMinister>
+                    <speakerOfTheKnesset>דב שילנסקי</speakerOfTheKnesset>
+                </signatures>
+            </record>
+        </records>
+        <comments>
+            <comment>
+                <symbol>*</symbol>
+                <commentText>נתקבל בכנסת ביום י״ב באדר ב׳ התשנ״ב(17 במרס 1992); הצעת החוק ודברי הסבר פורסמו בהצעות חוק 2086, מיום ו׳ בכסלו התשנ״ב (13 בנובמבר 1991), בעמ׳ 60.</commentText>
+            </comment>
+            <comment>
+                <symbol>1</symbol>
+                <commentText>ע״ר מס׳ 2, התש״ח, עמ׳ 1: ס״ח התשמ״א, עמ׳ 306.</commentText>
+            </comment>
+        </comments>
+    </metaData>
+</rule>
+

@@ -1,0 +1,35 @@
+<!DOCTYPE rule [
+<!ELEMENT rule (title, clauses, ?fixes, metaData)>
+<!ELEMENT title (#PCDATA)>
+
+<!ELEMENT clauses (mainClause*)>
+<!ELEMENT mainClause (name, clauseSymbol, text|(clause+))>
+<!ELEMENT clauseSymbol (#PCDATA)>
+<!ELEMENT clause (symbol, text|(clause+))>
+<!ELEMENT symbol (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT text (#PCDATA)>
+
+<!ELEMENT fixes (fix*)>
+<!ELEMENT fix (fixClause, ?changeSymbol, ?addMainClauseBefore, ?addTextToEndOfClause>
+<!ELEMENT fixClause (#PCDATA)>
+<!ELEMENT changeSymbol (#PCDATA)>
+<!ELEMENT addMainClauseBefore (name, clauseSymbol, clause+)>
+<!ELEMENT addTextToEndOfClause (#PCDATA)>
+
+<!ELEMENT metaData (records, ?comments)>
+<!ELEMENT records (record+)>
+<!ELEMENT record (page, bookName, date, signatures)>
+<!ELEMENT page (#PCDATA)>
+<!ELEMENT bookName (#PCDATA)>
+<!ELEMENT date (#PCDATA)>
+<!ELEMENT signatures (president, primeMinister, speakerOfTheKnesset)>
+<!ELEMENT president (#PCDATA)>
+<!ELEMENT primeMinister (#PCDATA)>
+<!ELEMENT speakerOfTheKnesset (#PCDATA)>
+
+<!ELEMENT comments (comment*)>
+<!ELEMENT comment (symbol, commentText)>
+<!ELEMENT symbol (#PCDATA)>
+<!ELEMENT commentText (#PCDATA)>
+]>

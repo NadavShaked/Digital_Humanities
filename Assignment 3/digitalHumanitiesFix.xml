@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rule>
+    <title bold="true" symbol="*">חוק-יסוד: חופש העיסוק*</title>
+    <clauses>
+        <mainClause>
+            <name>עקרונות יסוד</name>
+            <clauseSymbol>1</clauseSymbol>
+            <text symbol="1">זכויות היסוד של האדם בישראל מושתתות על ההכרה בערך האדם, בקדושת חייו ובהיותו בן-חורין, והן יכובדו ברוח העקרונות שבהכרזה על הקמת מדינת ישראל1.</text>
+        </mainClause>
+        <mainClause>
+            <name>מטרה</name>
+            <clauseSymbol>2</clauseSymbol>
+            <text>חוק-יסוד זה מטרתו להגן על חופש העיסוק כדי לעגן בחוד-יסוד את ערכיה של מדינת ישראל כמדינה יהודית ודמוקרטית.</text>
+        </mainClause>
+        <mainClause>
+            <name>חופש העיסוק</name>
+            <clauseSymbol>3</clauseSymbol>
+            <text>כל אזרח או תושב של המדינה זכאי לעסוק בכל עיסוק, מקצוע או משלח יד.</text>
+        </mainClause>
+        <mainClause>
+            <name>פגיעה בחופש העיסוק</name>
+            <clauseSymbol>4</clauseSymbol>
+            <text>אין פוגעים בחופש העיסוק אלא בחוק ההולם את ערכיה של מדינת ישראל, שנועד לתכלית ראויה, ובמידה שאינה עולה על הנדרש, או לפי חוק כאמור מכוח הסמכה מפורשת בו.</text>
+        </mainClause>
+        <mainClause>
+            <name>5</name>
+            <clauseSymbol>תחולה</clauseSymbol>
+            <text>כל רשות מרשויות השלטון חייבת לכבד את חופש העיסוק של כל אזרח או תושב.</text>
+        </mainClause>
+        <mainClause>
+            <name>יציבות</name>
+            <clauseSymbol>6</clauseSymbol>
+            <text>אין בכוחן של תקנות-שעת-חירום לשנות חוק-יסוד זה, להפקיע זמנית את תוקפו או לקבוע בו תנאים.</text>
+        </mainClause>
+        <mainClause>
+            <name>נוקשות</name>
+            <clauseSymbol>7</clauseSymbol>
+            <text>אין לשנות חוק-יסוד זה אלא בחוק-יסוד שנתקבל ברוב של חברי הכנסת.</text>
+        </mainClause>
+        <mainClause>
+            <name>תוקפו של חוק חורג</name>
+            <clauseSymbol>8</clauseSymbol>
+            <text>הוראות חוק הפוגעת בחופש העיסוק תהיה תקפה אף כשאינה בהתאם לסעיף 4, אם נכללה בחוק שנתקבל ברוב של חברי כנסת ונאמר בו במפורש, שהוא תקף על אף האמור בחוק יסוד זה; תוקפו של חוק כאמור יפקע בתום ארבע שנים מיום תחילתו, זולת אם נקבע בו מועד מוקדם יותר.</text>
+        </mainClause>
+        <mainClause>
+            <name>ביטול</name>
+            <clauseSymbol>9</clauseSymbol>
+            <text symbol="2">חוק-יסוד: חופש העיסוק2 - בטל.</text>
+        </mainClause>
+        <mainClause>
+            <name>הוראת שעה</name>
+            <clauseSymbol>10</clauseSymbol>
+            <text>הוראות חיקוק שאלמלא חוק-יסוד זה או חוק-יסוד שבוטל כאמור בסעיף 9, היו תקפות ערב תחילתו של חוק-יסוד זה יעמדו בתוקפן עד תום שנתיים מיום תחילתו של חוק-יסוד זה, אם לא בוטלו קודם לכן, ואולם פירושן של הההוראות האמורות ייעשה ברוח הוראות חוק-יסוד זה.</text>
+        </mainClause>
+    </clauses>
+    <fixes>
+        <fix>
+            <fixClause>1</fixClause>
+            <changeSymbol>1א</changeSymbol>
+            <addMainClauseBefore>
+                <mainClause>
+                    <name>עקרונות יסוד</name>
+                    <clauseSymbol>1</clauseSymbol>
+                    <text symbol="3">זכויות היסוד של האדם בישראל מושתתות על ההכרה בערך האדם, בקדושת חייו והיותו בן-חורין, והן יכובדו ברוח העקרונות שבהכרזה על הקמת מדינת ישראל.</text>
+                </mainClause>
+            </addMainClauseBefore>
+        </fix>
+        <fix>
+            <fixClause>8</fixClause>
+            <addTextToEndOfClause>או לפי חוק כאמור מכוח הסמכה מפורשת בו</addTextToEndOfClause>
+        </fix>
+    </fixes>
+    <metaData>
+        <records>
+            <record>
+                <page>90</page>
+                <bookName>ספר החוקים 1454</bookName>
+                <date>כ״ז באדר התשנ״ד, 10.3.1994</date>
+                <signatures>
+        <president>חיים הרצוג</president>
+        <primeMinister>יצחק שמיר</primeMinister>
+        <speakerOfTheKnesset>דב שילנסקי</speakerOfTheKnesset>
+    </signatures>
+            </record>
+        </records>
+        <comments>
+        <comment>
+            <symbol>*</symbol>
+            <commentText>נתקבל בכנסת ביום כ״ו באדר התשנ״ד (9 במרס 1994); הצעת החוק ודברי הסבר פורסמו בהצעות חוק 2250, מיום ג׳ באדר התשנ״ד (14 בפברואר 1994), עמ׳ 289.</commentText>
+        </comment>
+        <comment>
+            <symbol>1</symbol>
+            <commentText>ע״ר התש״י, עמ׳ 1.</commentText>
+        </comment>
+        <comment>
+            <symbol>2</symbol>
+            <commentText>ס״ח התשנ״ב, עמ׳ 114.</commentText>
+        </comment>
+        <comment>
+            <symbol>3</symbol>
+            <commentText>ס״ח התשנ״ב, עמ׳ 150.</commentText>
+        </comment>
+    </comments>
+    </metaData>
+</rule>
+
+
+
